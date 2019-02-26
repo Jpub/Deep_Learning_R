@@ -14,4 +14,4 @@
 
 [### 저자의 GitHub 계정(소스코드) ###](https://github.com/jjallaire/deep-learning-with-r-notebooks)
 
-[### 도서 소개 페이지 바로 가기 ###](http://)
+[### 도서 소개 페이지 바로 가기 ###](https://jpub.tistory.com/901)
